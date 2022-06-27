@@ -1,3 +1,3 @@
 # Task-List
 
-[Create List Here](https://github.com/YSFG/Task-List.git)
+[Create List Here](https://ysfg.github.io/Task-List/)
